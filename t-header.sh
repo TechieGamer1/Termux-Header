@@ -93,7 +93,7 @@ THEADER ()
 {
 clear;
 echo -e "\033[01;32m
-Techie Gamer (2023)
+Telegram - @TechieGamer (2023)
 		
 	menu
 +---------------------------*/
@@ -116,7 +116,7 @@ if [[ ${#PROC} -gt 8 ]]; then
 	sleep 4
 	clear
 echo -e "\033[01;32m
-Techie Gamer (2023)
+Telegram - @TechieGamer (2023)
 
 	menu
 +---------------------------*/
@@ -218,7 +218,7 @@ clear;
 echo -e "\033[31m$(figlet -f Remo773 "T- Header")\e[0m"
 echo -e "\e[1;32m
 +----------------------------------*/
-Techie Gamer : (\e[33m14.4.2023\e[32m)
+Telegram - @TechieGamer : (\e[33m27.01.2023\e[32m)
 
 1. Oh-my-zsh
 2. Zsh-syntax-highlight (\e[33mplugins\e[01;32m)
